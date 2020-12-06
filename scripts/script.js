@@ -6,17 +6,17 @@ let images = [
         time: '3.5 month',
         area: '81 m2'
     },{
-        url: "./images/Section2Mobile.jpg",
+        url: "./images/SliderImage2.jpg",
         sity: 'Sochi',
         adress: 'Thieves',
-        time: '5.3 month',
-        area: '181 m2'
+        time: '4 month',
+        area: '105 m2'
     },{
-        url: "./images/Section6Img3.jpg",
+        url: "./images/SliderImage3.jpg",
         sity: 'Rostov-on-Don',
-        adress: 'Patriotic center',
-        time: '8 month',
-        area: '777 m2'
+        adress: 'Patriotic',
+        time: '3 month',
+        area: '93 m2'
     },
 ];
 
